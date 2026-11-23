@@ -1,10 +1,15 @@
 {
-  "karanNote": null,
+  "karanNote": {
+    "id": "note_karan_1795465481955",
+    "message": "I LOVEEEE YOUUUU SOOOO MUCHHHHHH MYYYYY CUTUUUU LITTLEEEEE BABYYYYYY THANK YOUU FOR EVERYTHINGGG🥺🥺🥺",
+    "author": "Karan",
+    "createdAt": 1795465481955
+  },
   "anishaNote": {
     "id": "note_anisha_1795465480324",
     "message": "Missing your warm cuddles so much right now 💕",
     "author": "Anisha",
     "createdAt": 1795465480324
   },
-  "updatedAt": 1795465480324
+  "updatedAt": 1795465481955
 }
