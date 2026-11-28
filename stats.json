@@ -1,12 +1,12 @@
 {
-  "kisses": 235,
-  "hugs": 129,
-  "slaps": 225,
-  "punches": 8,
-  "tickles": 54,
+  "kisses": 0,
+  "hugs": 0,
+  "slaps": 0,
+  "punches": 0,
+  "tickles": 0,
   "pokes": 0,
-  "affectionScore": 100,
-  "sessionStartTime": 1795458731870,
-  "resetAt": 0,
-  "lastUpdated": 1795841434002
+  "affectionScore": 50,
+  "sessionStartTime": 1795841443045,
+  "resetAt": 1795841443045,
+  "lastUpdated": 1795841443045
 }
